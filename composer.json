@@ -58,10 +58,10 @@
     "require-dev": {
         "ext-sqlite3": "*",
         "alt-three/testbench": "^1.11",
+        "barryvdh/laravel-debugbar": "^2.4",
         "filp/whoops": "^2.1",
         "fzaninotto/faker": "^1.6",
         "graham-campbell/testbench-core": "^1.1",
-        "laravel/browser-kit-testing": "^2.0",
         "mockery/mockery": "0.9.9",
         "nikic/php-parser": "^3.0",
         "phpunit/phpunit": "5.7.20",
